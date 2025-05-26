@@ -25,7 +25,7 @@ This is a simple and responsive landing page created as part of a web developmen
 ## 🚀 Live Demo
 
 You can view the live demo here:  
-[🔗 Live Website](https://mayankkmauryaa.github.io/DAY1)
+🔗 [Live Website](https://mayankkmauryaa.github.io/Elevate-DAY1/)
 
 ## 📂 Folder Structure
 
