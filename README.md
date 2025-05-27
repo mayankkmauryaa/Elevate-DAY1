@@ -29,8 +29,6 @@ You can view the live demo here:
 
 ## 📂 Folder Structure
 
->Elevate WebD/
->
 >DAY1/
 >
 >  ├── index.html # Main HTML file
@@ -47,15 +45,18 @@ You can view the live demo here:
 1. Clone this repository:
    ```bash
    git clone https://github.com/mayankkmauryaa/Elevate-DAY1.git
-
+   
 2. Open the folder in VS Code or any code editor.
 
 3. Run using Live Server or just open index.html in your browser.
 
-📧 Contact
-Created by Mayank Maurya
-🔗 LinkedIn : https://www.linkedin.com/in/mayankmaurya05/
-📧 hpmayankmaurya@gmail.com
+> 📧 Contact
+>
+> Created by Mayank Maurya
+> 
+> 🔗 LinkedIn : https://www.linkedin.com/in/mayankmaurya05/
+> 
+> 📧 hpmayankmaurya@gmail.com
 
 
 ---
